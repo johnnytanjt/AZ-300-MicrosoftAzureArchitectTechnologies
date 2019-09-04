@@ -23,4 +23,6 @@
 We hope using this GitHub repository brings a sense of collaboration to the labs and improves the overall quality of the lab experience. 
 
 Regards,
-Azure Architect Courseware Team
+Azure Architect Courseware Team 
+
+Johnny is here
